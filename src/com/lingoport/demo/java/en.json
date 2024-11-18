@@ -1,1 +1,13 @@
-
+{
+  "required" : "Required",
+  "charOver": "Characters over."
+  "exclamation": "Test with Exclamation!",
+  "exclamation2": "Test with exclamation back to 1698!",
+  "question": "What is your favorite color?",
+  "question2": "What is your favorite color with whitespace ?",
+  "number": "Test with #42",
+  "colon": "with a colon: keyname",
+  "icu": "And {count, plural, one {# other} other {# others}}"
+}
+  
+  
