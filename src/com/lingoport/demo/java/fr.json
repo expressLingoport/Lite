@@ -1,0 +1,11 @@
+{
+  "required": "Obligatoire",
+  "charOver": "Caractères terminés.",
+  "exclamation": "\t\r\nTestez avec Exclamation !",
+  "exclamation2": "Test avec exclamation remontant jusqu’en 1698 !",
+  "question": "Quelle est votre couleur préférée ?",
+  "question2": "Quelle est votre couleur préférée avec les espaces blancs ?\r\n",
+  "number": "Testez avec #42",
+  "colon": "\t\r\navec deux points : Keyname",
+  "icu": "et {count, plural, one {# autre} other {# autres}}"
+}

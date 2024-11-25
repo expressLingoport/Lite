@@ -1,0 +1,11 @@
+{
+  "required": "Obbligatorio",
+  "charOver": "Caratteri sopra.",
+  "exclamation": "Prova con esclamazione!",
+  "exclamation2": "Prova con esclamazione fino al 1698!",
+  "question": "Qual è il tuo colore preferito?",
+  "question2": "Qual è il tuo colore preferito con gli spazi bianchi?",
+  "number": "Prova con il n. 42",
+  "colon": "con due punti: nome chiave",
+  "icu": "e {count, plural, one {# altro} other {# altri}}"
+}
